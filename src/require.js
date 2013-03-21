@@ -8,10 +8,10 @@ var _ = require('lodash'),
     requireDir = require('require-dir');
 
 exports = module.exports = function (dir, isRecursive) {
-	if (!_.isString(dir)) { dir = '.'; }
-	if (!_.isBoolean(isRecursive)) { isRecursive = true; }
+  if (!_.isString(dir)) { dir = '.'; }
+  if (!_.isBoolean(isRecursive)) { isRecursive = true; }
 
-	return requireDir(dir, {
-		recursive: isRecursive
-	});
+  return requireDir(dir, {
+    recursive: isRecursive
+  });
 };
