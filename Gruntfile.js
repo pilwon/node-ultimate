@@ -40,13 +40,12 @@ module.exports = function (grunt) {
   grunt.registerTask('test', [
     'jshint',
     'mochaTest',
+    'watch'
   ]);
 
   grunt.registerTask('t', 'test');
 
   grunt.registerTask('default', [
-    'jshint',
-    'mochaTest',
-    'watch'
+    'test'
   ]);
 };
