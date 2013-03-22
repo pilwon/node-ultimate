@@ -12,6 +12,6 @@ exports = module.exports = function (dir, isRecursive) {
   if (!_.isBoolean(isRecursive)) { isRecursive = true; }
 
   return requireDir(dir, {
-    recursive: isRecursive
+    recurse: isRecursive
   });
 };
