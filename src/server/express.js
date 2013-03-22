@@ -8,7 +8,7 @@ var path = require('path');
 
 var express = require('express'),
     express3Handlebars = require('express3-handlebars'),
-    ultimate = require('ultimate');
+    ultimate = require('../..');
 
 var _app = null,
     _server = null;
