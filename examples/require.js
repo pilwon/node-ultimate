@@ -2,8 +2,6 @@
  * examples/require.js
  */
 
-require('colors');
-
 var ultimate = require('..');
 
 // ultimate.require

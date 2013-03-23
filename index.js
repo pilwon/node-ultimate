@@ -4,6 +4,8 @@
 
 var requireDir = require('require-dir');
 
-exports = module.exports = requireDir('./src', {
+require('colors');
+
+exports = module.exports = requireDir('./lib', {
 	recurse: true
 });

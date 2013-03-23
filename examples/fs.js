@@ -2,8 +2,6 @@
  * examples/fs.js
  */
 
-require('colors');
-
 var ultimate = require('..');
 
 // ultimate.fs.glob
