@@ -1,5 +1,5 @@
 /*
- * test/server/test.js
+ * test/test.js
  */
 
 /* globals describe, it */
