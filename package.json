@@ -33,9 +33,11 @@
     "passport-facebook": "~0.1.5",
     "passport-google-oauth": "~0.1.5",
     "passport-local": "~0.1.6",
+    "passport-twitter": "~0.1.4",
     "redis": "~0.8.2",
     "require-dir": "~0.1.0",
-    "socket.io": "~0.9.13"
+    "socket.io": "~0.9.13",
+    "uuid": "~1.4.1"
   },
   "devDependencies": {
     "chai": "~1.5.0",
