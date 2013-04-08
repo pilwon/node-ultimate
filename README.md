@@ -13,19 +13,6 @@
 
     $ npm install ultimate
 
-## Usage
-
-```js
-var ultimate = require('ultimate');
-
-// ultimate.fs.glob
-ultimate.fs.glob(pattern='**/*', function(err, files));
-files = ultimate.fs.globSync(pattern='**/*');
-
-// ultimate.require
-modules = ultimate.require(dir='.', isRecursive=true);
-```
-
 ## License
 
   `ultimate` is released under the MIT License.
