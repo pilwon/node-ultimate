@@ -13,8 +13,7 @@
     "url": "git://github.com/pilwon/ultimate.git"
   },
   "keywords": [
-    "ultimate",
-    "seed"
+    "ultimate"
   ],
   "dependencies": {
     "colors": "~0.6.0-1",
