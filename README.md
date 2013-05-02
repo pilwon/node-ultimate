@@ -7,7 +7,7 @@
 
 ```
 
-`ultimate` is a dependency library for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
+`ultimate` is a dependency library for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
 
 ## Installation
 
