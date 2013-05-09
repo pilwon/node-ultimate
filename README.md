@@ -15,4 +15,4 @@
 
 ## License
 
-  `ultimate` is released under the MIT License.
+  `ultimate` is released under the [MIT License](http://opensource.org/licenses/MIT).
