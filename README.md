@@ -13,6 +13,10 @@
 
     $ npm install ultimate
 
+## Credits
+
+  See the [contributors](https://github.com/pilwon/node-ultimate/graphs/contributors).
+
 ## License
 
   `ultimate` is released under the [MIT License](http://opensource.org/licenses/MIT).
