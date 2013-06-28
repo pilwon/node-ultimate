@@ -29,6 +29,7 @@
     "mongoose": "~3.6.13",
     "mongoose-findorcreate": "~0.1.2",
     "mongoose-types": "~1.0.3",
+    "mongoskin": "~0.5.0",
     "passport": "~0.1.17",
     "passport-facebook": "~0.1.5",
     "passport-google-oauth": "~0.1.5",
