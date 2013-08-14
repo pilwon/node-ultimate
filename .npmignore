@@ -1,0 +1,7 @@
+#
+# .npmignore
+#
+
+/examples/
+node_modules
+/test/
