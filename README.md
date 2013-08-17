@@ -17,7 +17,10 @@
 
 ## Credits
 
-  See the [contributors](https://github.com/pilwon/node-ultimate/graphs/contributors).
+  * [Pilwon Huh](https://github.com/pilwon) (creator, maintainer)
+  * [Brian Park](https://github.com/yaru22) (collaborator)
+
+  Thanks to [all the other contributors](https://github.com/pilwon/node-ultimate/graphs/contributors) as well! :)
 
 ## License
 
