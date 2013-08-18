@@ -9,7 +9,7 @@
 
 [![NPM](https://nodei.co/npm/ultimate.png?downloads=false&stars=false)](https://npmjs.org/package/ultimate) [![NPM](https://nodei.co/npm-dl/ultimate.png?months=6)](https://npmjs.org/package/ultimate)
 
-`ultimate` is a dependency library for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
+`ultimate` is a dependency library for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
 
 ## Installation
 
