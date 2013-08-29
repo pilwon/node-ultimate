@@ -1,7 +1,7 @@
 {
   "name": "ultimate",
   "description": "Dependency library for `ultimate-seed`.",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "license": "MIT",
   "author": "Pilwon Huh <pilwon@gmail.com>",
   "contributors": [
@@ -30,7 +30,7 @@
     "connect-mongo": "~0.3.3",
     "connect-redis": "~1.4.5",
     "debug": "~0.7.2",
-    "express": "~3.3.5",
+    "express": "~3.3.7",
     "express-validator": "~0.7.0",
     "express3-handlebars": "~0.5.0",
     "glob": "~3.2.6",
