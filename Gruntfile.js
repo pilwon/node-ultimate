@@ -27,7 +27,7 @@ module.exports = function (grunt) {
         reporter: 'nyan'
       }
     },
-    watch: {  // grunt-regarde (task renamed from regarde to watch)
+    watch: {  // grunt-contrib-watch
       all: {
         files: [
           '*.js',
@@ -37,8 +37,6 @@ module.exports = function (grunt) {
       }
     }
   });
-
-  grunt.renameTask('regarde', 'watch');
 
   grunt.registerTask('test', [
     'jshint',
