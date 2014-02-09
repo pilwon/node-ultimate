@@ -2,10 +2,8 @@
  * index.js
  */
 
-var requireDir = require('require-dir');
+var requireAll = require('require-all');
 
 require('colors');
 
-exports = module.exports = requireDir('./lib', {
-	recurse: true
-});
+exports = module.exports = requireAll(__dirname + '/lib');
