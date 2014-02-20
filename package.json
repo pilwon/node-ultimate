@@ -1,7 +1,7 @@
 {
   "name": "ultimate",
   "description": "Dependency library for `ultimate-seed`.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "license": "MIT",
   "author": "Pilwon Huh <pilwon@gmail.com>",
   "contributors": [
