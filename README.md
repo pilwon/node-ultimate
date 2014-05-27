@@ -19,6 +19,7 @@
 
   * [Pilwon Huh](https://github.com/pilwon) (creator, maintainer)
   * [Brian Park](https://github.com/yaru22) (collaborator)
+  * [Adrian Maurer](https://github.com/VerticodeLabs) (contributor)
 
   Thanks to [all the other contributors](https://github.com/pilwon/node-ultimate/graphs/contributors) as well! :)
 
