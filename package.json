@@ -1,30 +1,24 @@
 {
-  "name": "ultimate",
-  "description": "Dependency library for `ultimate-seed`.",
-  "version": "0.3.12",
-  "license": "MIT",
-  "author": "Pilwon Huh <pilwon@gmail.com>",
+  "name": "ultimate-medibox",
+  "description": "Dependency library for `Medibox-Core-Platform`.",
+  "version": "0.0.1",
+  "license": "MIT License",
+  "author": "Manish Wadhwani <manishwr@gmail.com>"
   "contributors": [
-    {
-      "name": "Pilwon Huh",
-      "email": "pilwon@gmail.com",
-      "url": "https://github.com/pilwon"
-    },
-    {
-      "name": "Brian Park",
-      "email": "yaru22@gmail.com",
-      "url": "https://github.com/yaru22"
-    }
+    "Manish Wadhwani <manishwr@gmail.com> (https://github.com/manishrw)",
+    "Pilwon Huh <pilwon@gmail.com> (https://github.com/pilwon)",
+    "Brian Park <yaru22@gmail.com> (https://github.com/yaru22)"
   ],
-  "homepage": "https://github.com/pilwon/node-ultimate",
+  "homepage": "https://github.com/manishrw/ultimate-medibox",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pilwon/node-ultimate.git"
+    "url": "git://github.com/manishrw/ultimate-medibox.git"
   },
   "keywords": [
-    "ultimate"
+    "ultimate", "ultimate-medibox", "medibox"
   ],
   "dependencies": {
+    "async": "0.2.10",
     "colors": "~0.6.2",
     "connect-flash": "~0.1.1",
     "connect-mongo": "~0.3.3",
@@ -35,6 +29,7 @@
     "express3-handlebars": "~0.5.0",
     "glob": "~3.2.7",
     "lodash": "~1.3.1",
+    "mongoosastic": ">=0.0.1",
     "mongoose": "~3.6.20",
     "mongoose-findorcreate": "~0.1.2",
     "mongoose-timestamp": "~0.1.1",
@@ -63,5 +58,13 @@
   "scripts": {
     "prepublish": "npm prune",
     "test": "grunt test"
+  },
+  "bugs": {
+    "url": "https://github.com/manishrw/ultimate-medibox/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
   }
 }
