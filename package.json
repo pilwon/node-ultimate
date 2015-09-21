@@ -1,6 +1,6 @@
 {
-  "name": "ultimate-medibox",
-  "description": "Dependency library for `Medibox-Core-Platform`.",
+  "name": "ultimate",
+  "description": "Dependency library for `ultimate-seed`.",
   "version": "0.0.1",
   "license": "MIT License",
   "author": "Manish Wadhwani <manishwr@gmail.com>",
@@ -9,13 +9,13 @@
     "Pilwon Huh <pilwon@gmail.com> (https://github.com/pilwon)",
     "Brian Park <yaru22@gmail.com> (https://github.com/yaru22)"
   ],
-  "homepage": "https://github.com/manishrw/ultimate-medibox",
+  "homepage": "https://github.com/manishrw/node-ultimate",
   "repository": {
     "type": "git",
     "url": "git://github.com/manishrw/ultimate-medibox.git"
   },
   "keywords": [
-    "ultimate", "ultimate-medibox", "medibox"
+    "ultimate", "ultimate-seed", "elasticsearch"
   ],
   "dependencies": {
     "elasticsearch": "^8.0.1",
@@ -59,7 +59,7 @@
     "test": "grunt test"
   },
   "bugs": {
-    "url": "https://github.com/manishrw/ultimate-medibox/issues"
+    "url": "https://github.com/manishrw/node-ultimate/issues"
   },
   "main": "index.js",
   "directories": {
