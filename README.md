@@ -7,16 +7,21 @@
 
 ```
 
-[![NPM](https://nodei.co/npm/ultimate.png?downloads=false&stars=false)](https://npmjs.org/package/ultimate) [![NPM](https://nodei.co/npm-dl/ultimate.png?months=6)](https://npmjs.org/package/ultimate)
-
 `ultimate` is a dependency library for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
+This is a fork of <a href="https://github.com/pilwon/node-ultimate">node-ultimate</a> by pilwon. 
+
+<h3>New-features:</h3>
+<ul>
+<li>Integrate elasticsearch to the module.</li>
+</ul>
 
 ## Installation
 
-    $ npm install ultimate
+    $ npm install git://github.com/manishrw/node-ultimate.git
 
 ## Credits
 
+  * [Manish Wadhwani](https://github.com/manishrw) (creator, maintainer) 
   * [Pilwon Huh](https://github.com/pilwon) (creator, maintainer)
   * [Brian Park](https://github.com/yaru22) (collaborator)
 
@@ -27,6 +32,7 @@
 <pre>
 The MIT License (MIT)
 
+Copyright (c) 2015 Manish Wadhwani (manishwr@gmail.com)
 Copyright (c) 2012-2014 Pilwon Huh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -47,5 +53,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 </pre>
-
-[![Analytics](https://ga-beacon.appspot.com/UA-47034562-14/node-ultimate/readme?pixel)](https://github.com/pilwon/node-ultimate)
